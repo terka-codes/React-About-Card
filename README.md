@@ -1,6 +1,6 @@
 # REACT ABOUT CARD
 
-Live site [HERE] (https://terka-codes.github.io/React-About-Card/)
+Live site [HERE](https://terka-codes.github.io/React-About-Card/) 👈
 
 
 This is my first React solo project. 🥳 
